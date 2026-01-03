@@ -21,6 +21,12 @@ I'm a **self-taught programmer** and this is my portfolio. I have experience in 
   - Frontend
   - Beckend
   - full projects
+- full stack python
+  - Frontend
+  - Beckend
+  - full projects
 ### Programming Languages:
 - javascript
 - typescript
+- python
+- html & css
