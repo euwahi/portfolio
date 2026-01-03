@@ -6,7 +6,7 @@ I'm a **self-taught programmer** and this is my portfolio. I have experience in 
 
 ## Stacks:
 - **Full stack JavaScript** (Javascript, typesript, html, css, node.js, MongoDB, SQL 0Auth, JWT, bcrypt)<br>
-( will have in the future, focused on improving myself in: javascript )
+*( will have in the future, focused on improving myself in: javascript )*
 
 ## Programming Languages:
-( will have in the future, focused on improving myself in: javascript )
+*( will have in the future, focused on improving myself in: javascript )*
