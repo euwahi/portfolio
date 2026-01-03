@@ -14,3 +14,10 @@ I'm a **self-taught programmer** and this is my portfolio. I have experience in 
 - html
 - css <br>
 *( will have in the future, focused on improving myself in: node.js )*
+
+## Portfolio Github organization:
+### Stacks
+- full stack Javascript
+  - Frontend
+  - Beckend
+  - full projects
