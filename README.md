@@ -12,5 +12,5 @@ I'm a **self-taught programmer** and this is my portfolio. I have experience in 
 - JavaScript (js)
 - TypeScript (ts)
 - html
-- css
+- css <br>
 *( will have in the future, focused on improving myself in: node.js )*
