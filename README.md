@@ -40,4 +40,4 @@ I’m always looking to improve and create something meaningful, one project at 
 ---
 
 📫 **Find me online:**  
-*(add your links here when you want — GitHub, Itch.io, YouTube, etc.)*
+https://sites.google.com/view/wahiportfolio/home/socialmedia
