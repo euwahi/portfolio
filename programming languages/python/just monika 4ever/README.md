@@ -1,3 +1,5 @@
+Ever imagined playing Doki Doki Literature Club… but as MONIKA?
+
 No more boring protagonist! In *Just Monika 4ever*, you take control of Monika — the most iconic, clever, and self-aware character from the original game.
 Experience the story from a brand-new perspective, make choices that impact the Literature Club, and explore a completely rewritten narrative with new dialogues and events created by fans!
 
