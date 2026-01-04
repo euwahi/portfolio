@@ -8,8 +8,8 @@ I'm a **self-taught programmer** and this is my portfolio. I have experience in 
 *( will have in the future, focused on improving myself in: python )*
 
 ## Programming Languages:
-python
-*( will have in the future, focused on improving myself in: node.js )*
+python <br>
+*( will have in the future, focused on improving myself in: python )*
 
 ## Portfolio Github organization:
 ### programming languages
