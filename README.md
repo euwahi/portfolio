@@ -1,43 +1,42 @@
-# 🌸 Eduarda Victoria (Wahi)
+Hello! I'm **Eduarda Victoria**, also known as **Wahi (wahipogo)**.  
+I'm a **self-taught programmer**, passionate about learning and creating through technology.
 
-Hi! I'm **Eduarda Victoria**, but you can call me **Wahi**.  
-I'm a **self-taught programmer** passionate about learning, creating, and exploring different technologies.
-
-Currently, I'm focusing on **Python**, but I'm also interested in expanding to other languages like **C++** and beyond.  
-My goal is to understand how things work deeply — not just to make things run, but to make them *make sense*.
+I have strong knowledge of the **Python** programming language and I’m currently expanding my skills in web development.
 
 ---
 
-## 🧠 Skills & Learning Path
+## 🧠 Technologies & Studies
 
-### 🚀 Current Focus
-- **Python** (main language)
-  - Building small projects to learn logic, automation, and structure.
-
-### 🌱 Next Steps
-- **C++**
-- **Web Development (HTML, CSS, JS)**  
-  *(still deciding what to explore next!)*
-
----
-
-## 🗂️ Portfolio & Projects
-
-### 🔹 Programming Languages
+### 🔹 Main Language
 - **Python**
-  - *(nothing here yet — but soon!)*
 
-### 🔸 Other Projects
-- **Just Monika 4ever**  
-  [Project link coming soon!]
+### 🔹 Currently studying
+- **Full Stack JavaScript development**, including:
+  - JavaScript (JS)
+  - TypeScript (TS)
+  - Node.js
+  - HTML
+  - CSS
+
+### 🔹 Planning to study
+- **MySQL**
+- **C++**
 
 ---
 
-## ✨ About Me
-Curious mind, creative soul. I like mixing logic and art — whether through code, stories, or design.  
-I’m always looking to improve and create something meaningful, one project at a time.
+## 🗂️ Projects
+
+### 🌐 Laços Profanos (Profane Bonds)
+🔗 https://lacosprofanos.com.br  
+
+**Laços Profanos** is an independent brand based on a fictional universe, created and managed by me.  
+I am also responsible for **developing the website**, which currently uses **front-end technologies only**.
+
+This project combines **creativity, visual identity, and web development**, serving as a space for continuous growth and experimentation.
 
 ---
 
-📫 **Find me online:**  
-https://sites.google.com/view/wahiportfolio/home/socialmedia
+## ⚠️ Important Notes
+- I develop **back-end solutions upon request**
+- I do **not** purchase, resell, or manage servers
+- My work is focused exclusively on **programming and development**
